@@ -93,3 +93,4 @@ No.	Nama	Nilai (Ribuan $)	Jenis	Status	Tanggal
 30	Item 30	2991	Peralatan	Tidak Aktif	2024-05-19
 30	Debitur 30	354	Hutang Usaha	Aktif	2024-05-19
 30	Kreditor 30	2305	Utang Pribadi	Tidak Aktif	2024-05-19
+![image](https://github.com/EbitChristianHamonanganPurba/Analisis-Data-Aset-Piutang-dan-Utang/assets/167233970/882b9fbb-f275-43ee-9a28-410ae065b92b)
