@@ -6,7 +6,7 @@ Berikut ini contoh data yang saya gunakan untuk dianalisis:
 
 Langkah 2 : Membuat Visualisasi 
 
-Setelah memperoleh data diatas, dilanjutkan membuat visualisasi data menggunakan Python. Visualisasi data yang saya tampilkan terdiri dari histogram, bar chart, dan pie chart, 
+Setelah memperoleh data diatas, dilanjutkan membuat visualisasi data menggunakan Python. Visualisasi data yang saya tampilkan terdiri dari histogram, box & whisker, bar chart, dan pie chart, 
 
 Langkah 3 : Analisis Statistik
 
