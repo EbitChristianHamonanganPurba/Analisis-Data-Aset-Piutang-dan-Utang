@@ -19,7 +19,8 @@ Langkah 4 : Visualisasi Keterkaitan Data
 ![image](https://github.com/EbitChristianHamonanganPurba/Analisis-Data-Aset-Piutang-dan-Utang/assets/167233970/ff2971df-d4c0-4b17-955e-04adec71538b)
 ![image](https://github.com/EbitChristianHamonanganPurba/Analisis-Data-Aset-Piutang-dan-Utang/assets/167233970/b1238f1e-7e08-49de-8353-658c33a80bdb)
 ![image](https://github.com/EbitChristianHamonanganPurba/Analisis-Data-Aset-Piutang-dan-Utang/assets/167233970/20873364-0984-4d99-b813-19c895b6d6f2)
-![image](https://github.com/EbitChristianHamonanganPurba/Analisis-Data-Aset-Piutang-dan-Utang/assets/167233970/f2d3dd04-1899-4dc8-ae81-27ee259f4160)
+![image](https://github.com/EbitChristianHamonanganPurba/Analisis-Data-Aset-Piutang-dan-Utang/assets/167233970/5f8c7e47-2c63-4d82-b13f-feb731c55ac1)
+
 
 
 Berikut ini interpretasi dari setiap analisis yang saya lakukan : 
